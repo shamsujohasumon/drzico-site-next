@@ -1,0 +1,2537 @@
+{
+ "before-after/case-bypass-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "40a4ec466a5bdf0f0d50a411b75e4d2ef97b4a33",
+  "variants": [
+   [
+    "_opt/before-after/case-bypass-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-bypass-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-bypass-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-bypass-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-bypass-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "1bef16ce476db22a83f52c538e275810d9be7a44",
+  "variants": [
+   [
+    "_opt/before-after/case-bypass-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-bypass-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-bypass-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-bypass-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cerebellar-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "708c57bde689b3fe8cdb9dea94d02e57f6e99202",
+  "variants": [
+   [
+    "_opt/before-after/case-cerebellar-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cerebellar-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cerebellar-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cerebellar-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cerebellar-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "1dcf21b9173a8be7fa2444c930edc4284aca745a",
+  "variants": [
+   [
+    "_opt/before-after/case-cerebellar-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cerebellar-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cerebellar-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cerebellar-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cervical-tumor-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "5f4b3f93b74e6be444cb16b8a9c1e7f9f235d473",
+  "variants": [
+   [
+    "_opt/before-after/case-cervical-tumor-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cervical-tumor-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cervical-tumor-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cervical-tumor-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cervical-tumor-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "b5e71ce06cd3aaf0b84c95f1acfe7ce1969e2e38",
+  "variants": [
+   [
+    "_opt/before-after/case-cervical-tumor-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cervical-tumor-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cervical-tumor-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cervical-tumor-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cpa-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "a1430c21166d43bf08bdc271de5477d5bc715fd1",
+  "variants": [
+   [
+    "_opt/before-after/case-cpa-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cpa-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cpa-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cpa-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cpa-axial-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "dc71bf595e5b20a4eaf9968e376dca8c043d7be9",
+  "variants": [
+   [
+    "_opt/before-after/case-cpa-axial-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cpa-axial-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cpa-axial-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cpa-axial-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cpa-axial-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "5002430750db1e3073ba5bd7a0caeb3cabe4a5af",
+  "variants": [
+   [
+    "_opt/before-after/case-cpa-axial-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cpa-axial-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cpa-axial-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cpa-axial-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cpa-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "f6bb5af5c5c66035d4f1cc407c8d6cf2af8192bf",
+  "variants": [
+   [
+    "_opt/before-after/case-cpa-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cpa-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cpa-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cpa-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cpa-hydro-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "82b982b770f2175fe23883838ae810a4a670d19b",
+  "variants": [
+   [
+    "_opt/before-after/case-cpa-hydro-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cpa-hydro-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cpa-hydro-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cpa-hydro-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-cpa-hydro-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "768b157f9dfa47c3777e807592f1def42e4a6a1b",
+  "variants": [
+   [
+    "_opt/before-after/case-cpa-hydro-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-cpa-hydro-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-cpa-hydro-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-cpa-hydro-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-deep-tumor-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "37af89afebfa123714e1789e4371b435eb8cf2fa",
+  "variants": [
+   [
+    "_opt/before-after/case-deep-tumor-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-deep-tumor-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-deep-tumor-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-deep-tumor-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-deep-tumor-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "847a3c075ee2e8772b2756cc8804d71c7f8a1353",
+  "variants": [
+   [
+    "_opt/before-after/case-deep-tumor-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-deep-tumor-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-deep-tumor-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-deep-tumor-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-large-tumor-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "7feca974f9b60531f9f6bd8e9eb46f091711712e",
+  "variants": [
+   [
+    "_opt/before-after/case-large-tumor-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-large-tumor-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-large-tumor-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-large-tumor-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-large-tumor-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "bd47bcb07736f151384b821c184b1e300d0275f7",
+  "variants": [
+   [
+    "_opt/before-after/case-large-tumor-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-large-tumor-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-large-tumor-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-large-tumor-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-meningioma-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "637e753296915991da9f9561bedc45c385a44ddb",
+  "variants": [
+   [
+    "_opt/before-after/case-meningioma-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-meningioma-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-meningioma-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-meningioma-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-meningioma-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "03167d24004f73fbf789fc36877c774d16c68e8f",
+  "variants": [
+   [
+    "_opt/before-after/case-meningioma-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-meningioma-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-meningioma-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-meningioma-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-pituitary-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "78de8fa57f8a0d72e602fb7ea88d9b33904e98fa",
+  "variants": [
+   [
+    "_opt/before-after/case-pituitary-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-pituitary-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-pituitary-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-pituitary-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-pituitary-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "52bae017f0a9bd9261227c9403b3009a5007d91c",
+  "variants": [
+   [
+    "_opt/before-after/case-pituitary-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-pituitary-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-pituitary-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-pituitary-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-pituitary-cor-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "725bef516b3abcad90a8237edcb3a26b1aefca0c",
+  "variants": [
+   [
+    "_opt/before-after/case-pituitary-cor-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-pituitary-cor-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-pituitary-cor-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-pituitary-cor-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-pituitary-cor-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "b449279e77165a0adaf4e71123ebfea7356e56a0",
+  "variants": [
+   [
+    "_opt/before-after/case-pituitary-cor-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-pituitary-cor-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-pituitary-cor-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-pituitary-cor-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-pituitary-sag-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "b397b9c5a90029f506d5c15f84cceba0645813e4",
+  "variants": [
+   [
+    "_opt/before-after/case-pituitary-sag-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-pituitary-sag-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-pituitary-sag-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-pituitary-sag-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-pituitary-sag-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "52025d0e6f0f588ea063d35c8baab92a95a3a4b9",
+  "variants": [
+   [
+    "_opt/before-after/case-pituitary-sag-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-pituitary-sag-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-pituitary-sag-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-pituitary-sag-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-skullbase-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "a5792722fadae8524ccc4a1b2d98ceae6e9a38c2",
+  "variants": [
+   [
+    "_opt/before-after/case-skullbase-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-skullbase-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-skullbase-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-skullbase-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-skullbase-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "6690f106620b543f77898d0fc69aa3069e49099e",
+  "variants": [
+   [
+    "_opt/before-after/case-skullbase-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-skullbase-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-skullbase-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-skullbase-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-spine-fracture-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "4d7d034f88d6e8a0858430f3aadd9afc2f08f40c",
+  "variants": [
+   [
+    "_opt/before-after/case-spine-fracture-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-spine-fracture-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-spine-fracture-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-spine-fracture-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-spine-fracture-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "ff318149da4853a56d31a52195c02f0d83d20f8c",
+  "variants": [
+   [
+    "_opt/before-after/case-spine-fracture-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-spine-fracture-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-spine-fracture-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-spine-fracture-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-suprasellar-after.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "b6948bce5997f37a6a924b9f29237a0ad7d94941",
+  "variants": [
+   [
+    "_opt/before-after/case-suprasellar-after-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-suprasellar-after-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-suprasellar-after-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-suprasellar-after-900.webp",
+    900
+   ]
+  ]
+ },
+ "before-after/case-suprasellar-before.jpg": {
+  "w": 900,
+  "h": 900,
+  "hash": "808c6c56a56ac365f5fb8850c80019758ad0b7fa",
+  "variants": [
+   [
+    "_opt/before-after/case-suprasellar-before-240.webp",
+    240
+   ],
+   [
+    "_opt/before-after/case-suprasellar-before-480.webp",
+    480
+   ],
+   [
+    "_opt/before-after/case-suprasellar-before-720.webp",
+    720
+   ],
+   [
+    "_opt/before-after/case-suprasellar-before-900.webp",
+    900
+   ]
+  ]
+ },
+ "chamber-continental.jpg": {
+  "w": 1200,
+  "h": 675,
+  "hash": "2f0393828e75c0a802d7c31256132590e073a7c0",
+  "variants": [
+   [
+    "_opt/chamber-continental-240.webp",
+    240
+   ],
+   [
+    "_opt/chamber-continental-480.webp",
+    480
+   ],
+   [
+    "_opt/chamber-continental-720.webp",
+    720
+   ],
+   [
+    "_opt/chamber-continental-960.webp",
+    960
+   ],
+   [
+    "_opt/chamber-continental-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "chamber-malibag.jpg": {
+  "w": 1200,
+  "h": 675,
+  "hash": "820a29d8ada75cb6180fb4519dc82de8145bd5d6",
+  "variants": [
+   [
+    "_opt/chamber-malibag-240.webp",
+    240
+   ],
+   [
+    "_opt/chamber-malibag-480.webp",
+    480
+   ],
+   [
+    "_opt/chamber-malibag-720.webp",
+    720
+   ],
+   [
+    "_opt/chamber-malibag-960.webp",
+    960
+   ],
+   [
+    "_opt/chamber-malibag-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "chamber-popular-dhanmondi.jpg": {
+  "w": 1200,
+  "h": 675,
+  "hash": "2705dab0aca6879ad06d0bd2b1999e3f17fb53e2",
+  "variants": [
+   [
+    "_opt/chamber-popular-dhanmondi-240.webp",
+    240
+   ],
+   [
+    "_opt/chamber-popular-dhanmondi-480.webp",
+    480
+   ],
+   [
+    "_opt/chamber-popular-dhanmondi-720.webp",
+    720
+   ],
+   [
+    "_opt/chamber-popular-dhanmondi-960.webp",
+    960
+   ],
+   [
+    "_opt/chamber-popular-dhanmondi-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "dr-zico-portrait.png": {
+  "w": 1212,
+  "h": 1297,
+  "hash": "cb11cc48585d046102dfec9173b2cb6c8d73c381",
+  "variants": [
+   [
+    "_opt/dr-zico-portrait-240.webp",
+    240
+   ],
+   [
+    "_opt/dr-zico-portrait-480.webp",
+    480
+   ],
+   [
+    "_opt/dr-zico-portrait-720.webp",
+    720
+   ],
+   [
+    "_opt/dr-zico-portrait-960.webp",
+    960
+   ],
+   [
+    "_opt/dr-zico-portrait-1212.webp",
+    1212
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-01.webp": {
+  "w": 1203,
+  "h": 1600,
+  "hash": "1f1f40760977aee759c77b08a5214c1b13c751d7",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-01-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-01-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-01-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-01-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-01-1203.webp",
+    1203
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-02.webp": {
+  "w": 1290,
+  "h": 1170,
+  "hash": "34a2a6fffecbc337fbb9619d615d10efee45fb83",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-02-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-02-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-02-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-02-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-02-1290.webp",
+    1290
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-03.webp": {
+  "w": 1253,
+  "h": 1600,
+  "hash": "3951b9ae5055390f8033fc1f66f742a59f2b83f5",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-03-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-03-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-03-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-03-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-03-1253.webp",
+    1253
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-04.webp": {
+  "w": 1441,
+  "h": 1600,
+  "hash": "fa0a5e307a8584deb7b97b48f579713a4323300f",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-04-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-04-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-04-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-04-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-04-1441.webp",
+    1441
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-05.webp": {
+  "w": 1566,
+  "h": 1600,
+  "hash": "bc5eaca2179d971068b067d0ba140a6d20cfc46c",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-05-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-05-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-05-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-05-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-05-1566.webp",
+    1566
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-06.webp": {
+  "w": 1378,
+  "h": 1600,
+  "hash": "25aadf457b6e0654702ecd01abf29b59aa1c6a16",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-06-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-06-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-06-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-06-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-06-1378.webp",
+    1378
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-07.webp": {
+  "w": 1600,
+  "h": 1439,
+  "hash": "0077d3f3edcda1a9e976c6da9a364196d13d22d6",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-07-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-07-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-07-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-07-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-07-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-08.webp": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "2c54b730caf67b42b4dcd28864d40172f04c8486",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-08-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-08-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-08-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-08-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-08-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-09.webp": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "21f9d57eb04d245f315d68e89f947744e11be784",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-09-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-09-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-09-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-09-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-09-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-10.webp": {
+  "w": 1600,
+  "h": 1200,
+  "hash": "463975215bed2946746d95e5fe953417fd4cec40",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-10-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-10-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-10-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-10-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-10-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-11.webp": {
+  "w": 1600,
+  "h": 1200,
+  "hash": "ca53ebd0cf19c32b8f8d5620f7a1228464da55ab",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-11-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-11-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-11-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-11-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-11-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-12.webp": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "5c923aecab41d7c03eac7df28e8c28a537f92b48",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-12-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-12-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-12-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-12-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-12-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-13.webp": {
+  "w": 1284,
+  "h": 1600,
+  "hash": "7402b4e62570480ae38c7ac2019dd59816f4754c",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-13-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-13-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-13-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-13-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-13-1284.webp",
+    1284
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-14.webp": {
+  "w": 769,
+  "h": 838,
+  "hash": "320a32f64c73f26940a690d99c2c1269225c3052",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-14-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-14-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-14-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-14-769.webp",
+    769
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-15.webp": {
+  "w": 1600,
+  "h": 1514,
+  "hash": "12115890432e503977cd3f7e4850b0c55829fb64",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-15-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-15-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-15-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-15-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-15-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-16.webp": {
+  "w": 1600,
+  "h": 1484,
+  "hash": "bfa276ee6ae8ed3a7797bdc4bfbc932f2020fa69",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-16-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-16-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-16-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-16-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-16-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-17.webp": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "d38aab9f090ac7bf0987c93867eefcd8b571c826",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-17-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-17-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-17-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-17-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-17-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-18.webp": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "096be54e37c1e222eebcceb203b8b6178c475419",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-18-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-18-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-18-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-18-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-18-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-19.webp": {
+  "w": 1600,
+  "h": 1016,
+  "hash": "9017a5227aa419dd3b49562f496b9098412c3ed4",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-19-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-19-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-19-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-19-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-19-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "happy-patient/dr-zico-happy-patient-20.webp": {
+  "w": 1024,
+  "h": 1600,
+  "hash": "5c82267a2302bcf7cd5ffb59fff283b885305f21",
+  "variants": [
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-20-240.webp",
+    240
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-20-480.webp",
+    480
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-20-720.webp",
+    720
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-20-960.webp",
+    960
+   ],
+   [
+    "_opt/happy-patient/dr-zico-happy-patient-20-1024.webp",
+    1024
+   ]
+  ]
+ },
+ "logo.png": {
+  "w": 793,
+  "h": 219,
+  "hash": "7980e47b1a077c7f509d3f339536df35753762b9",
+  "variants": [
+   [
+    "_opt/logo-240.webp",
+    240
+   ],
+   [
+    "_opt/logo-480.webp",
+    480
+   ],
+   [
+    "_opt/logo-720.webp",
+    720
+   ],
+   [
+    "_opt/logo-793.webp",
+    793
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-endoscopic-surgery-monitor.webp": {
+  "w": 1600,
+  "h": 858,
+  "hash": "7149ed979a0808485e58eaa273d9abd4e9ca471c",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-endoscopic-surgery-monitor-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-endoscopic-surgery-monitor-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-endoscopic-surgery-monitor-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-endoscopic-surgery-monitor-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-endoscopic-surgery-monitor-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-microscope-assisted-surgery.webp": {
+  "w": 1600,
+  "h": 1200,
+  "hash": "59fcc53d4a20be6361853b88faffcdb151a512d9",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-microscope-assisted-surgery-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-assisted-surgery-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-assisted-surgery-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-assisted-surgery-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-assisted-surgery-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-microscope-close-up.webp": {
+  "w": 1287,
+  "h": 1287,
+  "hash": "e5216c92568cd81abc4befc8d0f52c49fd9411ac",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-microscope-close-up-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-close-up-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-close-up-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-close-up-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-microscope-close-up-1287.webp",
+    1287
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-minimally-invasive-surgical-access.webp": {
+  "w": 1467,
+  "h": 1077,
+  "hash": "01a4ffdc32b9557c12fa12b3f217b322338d5739",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-minimally-invasive-surgical-access-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-minimally-invasive-surgical-access-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-minimally-invasive-surgical-access-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-minimally-invasive-surgical-access-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-minimally-invasive-surgical-access-1467.webp",
+    1467
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-neurosurgery-team.webp": {
+  "w": 659,
+  "h": 704,
+  "hash": "438b249158935697410c7974f577d61d338ad7b8",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-neurosurgery-team-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-neurosurgery-team-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-neurosurgery-team-659.webp",
+    659
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-operating-microscope.webp": {
+  "w": 1600,
+  "h": 1600,
+  "hash": "408eab1941ab5bd623d10b9434a2485dc4a240b2",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-operating-microscope-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-microscope-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-microscope-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-microscope-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-microscope-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-operating-theatre-team.webp": {
+  "w": 1280,
+  "h": 963,
+  "hash": "fec8726b10b7e8caddf0c8e4ca4381551ddedd01",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-operating-theatre-team-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-theatre-team-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-theatre-team-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-theatre-team-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-operating-theatre-team-1280.webp",
+    1280
+   ]
+  ]
+ },
+ "operating-theatre/dr-zico-patient-positioning.webp": {
+  "w": 1600,
+  "h": 1200,
+  "hash": "6d468d2dff670f01f9367efecdcf8307e29873bb",
+  "variants": [
+   [
+    "_opt/operating-theatre/dr-zico-patient-positioning-240.webp",
+    240
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-patient-positioning-480.webp",
+    480
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-patient-positioning-720.webp",
+    720
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-patient-positioning-960.webp",
+    960
+   ],
+   [
+    "_opt/operating-theatre/dr-zico-patient-positioning-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "ot-team-microscope.jpg": {
+  "w": 1800,
+  "h": 1350,
+  "hash": "d3f5312be3e1fcdf47944662f58d236650469213",
+  "variants": [
+   [
+    "_opt/ot-team-microscope-240.webp",
+    240
+   ],
+   [
+    "_opt/ot-team-microscope-480.webp",
+    480
+   ],
+   [
+    "_opt/ot-team-microscope-720.webp",
+    720
+   ],
+   [
+    "_opt/ot-team-microscope-960.webp",
+    960
+   ],
+   [
+    "_opt/ot-team-microscope-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-01.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "8dd51f60901a41e84433f69fc231a167e192c996",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-01-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-01-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-01-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-01-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-02.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "a0c56fea377784c74f583e6856506fe9bf853774",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-02-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-02-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-02-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-02-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-03.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "198ee3e167c991f14a4faee3827feba149be8f74",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-03-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-03-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-03-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-03-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-04.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "c8023c7b62de311cea48f8f0f9728308192fe159",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-04-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-04-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-04-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-04-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-05.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "cf36ea798b47b7dd14b3ce655c43d3045788a156",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-05-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-05-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-05-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-05-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-06.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "82902e878b3bf14d4e1bef04e50d7491931d5128",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-06-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-06-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-06-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-06-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-07.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "33d6d426953a96ff2fbe0de051e218227fb1b6bf",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-07-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-07-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-07-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-07-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-08.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "b2809c370022adad9f088b8635b50f3dbb79e9f1",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-08-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-08-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-08-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-08-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-09.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "24329fa6a5d0679e7c941c7a0322be6c917aab56",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-09-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-09-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-09-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-09-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-10.jpg": {
+  "w": 960,
+  "h": 1000,
+  "hash": "0234f78f08befee798041b68acae392aa20bcc95",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-10-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-10-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-10-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-10-960.webp",
+    960
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-11.jpg": {
+  "w": 1000,
+  "h": 810,
+  "hash": "0cc246ee556c98751ebc02b69c63103cf2e63745",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-11-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-11-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-11-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-11-960.webp",
+    960
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-11-1000.webp",
+    1000
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-12.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "620068dab0fd53e10a2f4779bd3bee2dc05557cb",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-12-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-12-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-12-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-12-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-13.jpg": {
+  "w": 999,
+  "h": 1000,
+  "hash": "86d183d9b847ed59bd3a63c1e319a0e9aa38aff7",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-13-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-13-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-13-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-13-960.webp",
+    960
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-13-999.webp",
+    999
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-14.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "8b698fc8d7ac1e9cae8967357f6f9125323aa34a",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-14-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-14-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-14-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-14-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-15.jpg": {
+  "w": 1000,
+  "h": 923,
+  "hash": "e4f01b9ebe888a14cc0874507a918a1cf89e31f8",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-15-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-15-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-15-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-15-960.webp",
+    960
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-15-1000.webp",
+    1000
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-16.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "6de41e51652ca9425fac6d1a91f38e38adeb212c",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-16-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-16-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-16-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-16-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-17.jpg": {
+  "w": 750,
+  "h": 1000,
+  "hash": "b8d856a4392dca09654f1b5bfed36c9b7433e474",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-17-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-17-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-17-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-17-750.webp",
+    750
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-18.jpg": {
+  "w": 1000,
+  "h": 979,
+  "hash": "375debcc062c22a9de4651be69c7db945f6ff3e7",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-18-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-18-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-18-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-18-960.webp",
+    960
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-case-18-1000.webp",
+    1000
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-hero.jpg": {
+  "w": 1600,
+  "h": 1000,
+  "hash": "1d2728d329fc9f41e034bcaef0f61093db65204f",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-hero-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-hero-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-hero-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-hero-960.webp",
+    960
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-hero-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-what-is-plid.jpg": {
+  "w": 1200,
+  "h": 1149,
+  "hash": "fd8ccab02c7721ea15156fcab1b5b507a6600cf8",
+  "variants": [
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-what-is-plid-240.webp",
+    240
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-what-is-plid-480.webp",
+    480
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-what-is-plid-720.webp",
+    720
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-what-is-plid-960.webp",
+    960
+   ],
+   [
+    "_opt/services/plid-lumbar-disc-surgery/plid-lumbar-disc-surgery-what-is-plid-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-aad-01.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "051d99b9e5a3e507cb81de14da87e5792b222a72",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-01-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-01-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-01-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-01-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-01-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-aad-02.jpg": {
+  "w": 1600,
+  "h": 1571,
+  "hash": "cf43301835d27e1e0e7db633a174a16f16c2de18",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-02-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-02-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-02-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-02-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-02-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-aad-03.jpg": {
+  "w": 1353,
+  "h": 1600,
+  "hash": "a6249e4a706df3fd5ceacbdb2a558ed8fdf00677",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-03-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-03-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-03-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-03-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-03-1353.webp",
+    1353
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-aad-04.jpg": {
+  "w": 1344,
+  "h": 1600,
+  "hash": "18d563939796490df7bd61414bc766dc16ba21ad",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-04-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-04-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-04-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-04-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-aad-04-1344.webp",
+    1344
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-01.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "aa8c9e414ea29960203cf700bc81259aacadbfb1",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-01-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-01-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-01-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-01-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-01-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-02.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "29631e5098a811b055a2b540ab07a502696b9ec3",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-02-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-02-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-02-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-02-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-02-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-03.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "d350850cb70c1747ec3eb91474443bb80e177bd5",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-03-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-03-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-03-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-03-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-03-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-disc-01.jpg": {
+  "w": 1374,
+  "h": 1600,
+  "hash": "f6a743ad7dafd529233bd78425b00881242c858c",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-01-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-01-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-01-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-01-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-01-1374.webp",
+    1374
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-disc-02.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "26a86ff2d9d892e5d28cba7367963a3472fbb3ba",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-02-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-02-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-02-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-02-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-02-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-disc-03.jpg": {
+  "w": 1536,
+  "h": 1209,
+  "hash": "c376c263577b34bea8fa54689f19fe7124bb12f7",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-03-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-03-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-03-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-03-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-03-1536.webp",
+    1536
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-disc-single-level-01.jpg": {
+  "w": 1600,
+  "h": 1200,
+  "hash": "303070022c4a9f632a983b871b6a5599b248a3a4",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-01-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-01-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-01-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-01-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-01-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-disc-single-level-02.jpg": {
+  "w": 1600,
+  "h": 1200,
+  "hash": "6794247ba260fe60be5f1eb5c94aeddd6483f067",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-02-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-02-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-02-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-02-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-02-1600.webp",
+    1600
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical-disc-single-level-03.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "hash": "ff354f5a46976ec8748a020a8660ceb209e4f3e9",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-03-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-03-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-03-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-03-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-disc-single-level-03-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-cervical.jpg": {
+  "w": 1374,
+  "h": 1030,
+  "hash": "acddce5813f735fcd97db1f6d3d5c72dc3e3dc57",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-cervical-1374.webp",
+    1374
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-hero.jpg": {
+  "w": 1200,
+  "h": 750,
+  "hash": "6d413944611b76ebfcf0a6e1a0b37c9950c0fb55",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-hero-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-hero-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-hero-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-hero-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-hero-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "services/spine-surgery/spine-surgery-spine-trauma.jpg": {
+  "w": 1200,
+  "h": 900,
+  "hash": "3fc1b3c3eb3fe857d1101acbb2ae57897b3c7c01",
+  "variants": [
+   [
+    "_opt/services/spine-surgery/spine-surgery-spine-trauma-240.webp",
+    240
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-spine-trauma-480.webp",
+    480
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-spine-trauma-720.webp",
+    720
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-spine-trauma-960.webp",
+    960
+   ],
+   [
+    "_opt/services/spine-surgery/spine-surgery-spine-trauma-1200.webp",
+    1200
+   ]
+  ]
+ },
+ "team-photo.jpg": {
+  "w": 1536,
+  "h": 2048,
+  "hash": "a27491757acd7a85f8caa020da2ed8a0cf4d61fe",
+  "variants": [
+   [
+    "_opt/team-photo-240.webp",
+    240
+   ],
+   [
+    "_opt/team-photo-480.webp",
+    480
+   ],
+   [
+    "_opt/team-photo-720.webp",
+    720
+   ],
+   [
+    "_opt/team-photo-960.webp",
+    960
+   ],
+   [
+    "_opt/team-photo-1536.webp",
+    1536
+   ]
+  ]
+ }
+}
