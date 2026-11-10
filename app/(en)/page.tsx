@@ -25,6 +25,9 @@ export default function Home() {
     ["users", "A complete team", "Neurosurgery and anaesthesia consultants, specialists and trained OT nurses work on every case."]];
   return (
     <Shell active="home">
+      <p style={{ background: "yellow", color: "black", padding: "15px", textAlign: "center" }}>
+        TEST: Automatic deployment is working!
+      </p>
       <JsonLd data={physicianSchema()} />
       <JsonLd data={faqSchema(faqs as [string, string, string][])} />
       <JsonLd data={{ "@context": "https://schema.org", "@type": "WebSite", name: "Dr. Md. Isma Azam (Zico), Neurosurgeon", url: SITE_URL + "/", inLanguage: ["en", "bn"] }} />
